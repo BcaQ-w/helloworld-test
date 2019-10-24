@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+struct list
+{
+  char* p;
+  char name[10];
+  int a;
+};
+int main()
+{
+  cout << helloworld<<endl;
+  return 0;  
+}
+
